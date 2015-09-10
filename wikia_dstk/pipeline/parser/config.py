@@ -2,7 +2,7 @@ default_config = {
     "queue": "text_events",
     "region": "us-west-2",
     "price": "0.300",
-    "ami": "ami-3584f605",  # parser-140520c
+    "ami": "ami-93dccfa3",  # parser 2015-09-02b
     "key": "data-extraction",
     "sec": "sshable",
     "type": "m2.4xlarge",
